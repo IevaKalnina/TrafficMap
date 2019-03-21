@@ -1,0 +1,20 @@
+Mapbox - js library, mapping framework
+GeoJASON - geo data long/lat format not lat/long
+APIs - aplication interfaces 
+
+Bootstrap for react - reactstrap.githum.io - 
+command for installing with terminal : npm install reactstrap;
+There are code snippets, as for usual bootstrap
+
+Add bootstrap js script to index.html head, as  well as basic
+css file from getboottrap.com
+
+***Components***
+
+separate everything as much as you can
+
+npm istall dotenv - easy way to store Api tokens, everything private 
+create .env file in root folder, add information there
+
+
+
